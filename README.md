@@ -18,7 +18,7 @@ https://tzc-blog.vercel.app/
 - Open Source
 
 ## Screenshots
-![BLOG](hhttps://i.ibb.co/wh07FcX/tzc-2.png)
+![BLOG](https://i.ibb.co/wh07FcX/tzc-2.png)
 
 ## License
 
