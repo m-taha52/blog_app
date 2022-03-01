@@ -1,14 +1,74 @@
-# GraphCMS Headless Blog
-### [Live Site](https://nextjs-plum-five-51.vercel.app/)
 
-![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
+### [GraphCMS Headless Blog]
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+This project was created as a blog application using GRAPHCMS
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Authors
 
-With featured and recent posts, categories. full markdown articles, author information, comments, and much more, this fully responsive CMS Blog App is the best Blog Application that you can currently find on YouTube. And what's best of all is that you and your clients can manage the blog from a dedicated Content Management System.
+- [@Mohammed-Taha](https://www.github.com/m-taha52)
 
-You'll also learn how to work with GraphCMS. GraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
+## Demo
+https://tzc-blog.vercel.app/
+
+## Features
+
+- Live previews
+- Fullscreen mode
+- Cross platform
+- Open Source
+
+## Screenshots
+![BLOG](hhttps://i.ibb.co/wh07FcX/tzc-2.png)
+
+## License
+
+[TZC](All Rights Reserved)
+
+# Getting Started with Create React App
+/i.ibb.co/Wpvxc5G/Frame-1-1.png)
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
